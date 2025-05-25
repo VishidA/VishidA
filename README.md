@@ -4,7 +4,6 @@ I am 1st year student of the specialty "Software Engineering" at the Ternopil Iv
 I learn quickly, have basic knowledge of programming and strive to gain my skills in practice.  
 Interested in learning new technologies and developments in the IT field.
 
----
 
 ## 🎓 Education
 
@@ -12,14 +11,13 @@ Interested in learning new technologies and developments in the IT field.
 _Bachelor’s in Software Engineering_  
 Sep 2024 – NOW
 
----
 
 ## 📜 Certificates
 
 - [Git Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/c02a4b5ac7733f5d8b1ad672871b93514957ff5c?raw=1)
 - [GitHub Foundations](https://www.datacamp.com/statement-of-accomplishment/track/07522b82b617f1849dc7801373c45c53b1579fb7?raw=1)
 
----
+
 
 ## 💻 Core Skills
 
@@ -31,14 +29,14 @@ Sep 2024 – NOW
   GitHub (Creating repositories, Issues, Pull Requests, Releases),  
   VS Code
 
----
+
 
 ## 🌍 Languages
 
 - **English:** Intermediate (B1)
 - **Ukrainian:** Native
 
----
+
 
 ## 🤝 Soft Skills
 
@@ -48,7 +46,7 @@ Sep 2024 – NOW
 - Interest in the latest programming trends (functional and reactive programming)
 - Communicable
 
-- ---
+
 
 ## 🎯 Goals
 
