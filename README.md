@@ -3,7 +3,7 @@
 I am 1st year student of the specialty "Software Engineering" at the Ternopil Ivan Puluj National Technical University.  
 I learn quickly, have basic knowledge of programming and strive to gain my skills in practice.  
 Interested in learning new technologies and developments in the IT field.   
-In the future, I aspire to become a skilled DevOps Engineer, continuously developing my technical and collaboration abilities.
+
 
 ## 🎓 Education
 
