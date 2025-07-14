@@ -53,3 +53,4 @@ Sep 2024 – NOW
 - I want to learn C# and SQL to broaden my technology stack and be able to work with databases and enterprise-level applications.
 - I aim to improve my Python and C++ skills, focusing on writing more efficient, clean, and scalable code.
 - I am interested in deepening my understanding of backend and database development, as well as exploring new programming paradigms.
+- In the future, I aspire to become a skilled DevOps Engineer, continuously developing my technical and collaboration abilities.
