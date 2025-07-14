@@ -21,9 +21,9 @@ Sep 2024 – NOW
 
 ## 💻 Core Skills
 
-- **Programming Languages:** C++, Python
+- **Programming Languages:** C/C++, Python
 - **Operating Systems:** Windows
-- **General Skills:** OOP concepts, Understanding Algorithms and Data Structures
+- **General Skills:** OOP concepts, Algorithms, Data Structures, SQL
 - **Instruments and IDE:**  
   Git (Commits, Branching, Pull Requests, Merge, Conflict Resolution),  
   GitHub (Creating repositories, Issues, Pull Requests, Releases),  
