@@ -3,6 +3,7 @@
 I am 1st year student of the specialty "Software Engineering" at the Ternopil Ivan Puluj National Technical University.  
 I learn quickly, have basic knowledge of programming and strive to gain my skills in practice.  
 Interested in learning new technologies and developments in the IT field.
+In the future, I aspire to become a skilled DevOps Engineer, continuously developing my technical and collaboration abilities.
 
 
 ## 🎓 Education
@@ -53,4 +54,4 @@ Sep 2024 – NOW
 - I want to learn C# and SQL to broaden my technology stack and be able to work with databases and enterprise-level applications.
 - I aim to improve my Python and C++ skills, focusing on writing more efficient, clean, and scalable code.
 - I am interested in deepening my understanding of backend and database development, as well as exploring new programming paradigms.
-- In the future, I aspire to become a skilled DevOps Engineer, continuously developing my technical and collaboration abilities.
+
