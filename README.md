@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oleksandr Shymkiv
 
-I am 1st year student of the specialty "Software Engineering" at the Ternopil Ivan Puluj National Technical University.  
+I am 2nd year student of the specialty "Software Engineering" at the Ternopil Ivan Puluj National Technical University.  
 I learn quickly, have basic knowledge of programming and strive to gain my skills in practice.  
 Interested in learning new technologies and developments in the IT field.   
 
